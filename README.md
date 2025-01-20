@@ -30,6 +30,36 @@ Raw Data -----> wavelet decompostion ----> Ray tracing to run monte carlo simula
 To clone the repository, run the following command:
 ```bash
 git clone https://github.com/not-tarunnn/financialmodels.git 
-               
+```
+### 2. Install Dependencies
+If you plan to use the Python models or scripts, make sure to install the necessary dependencies by running:
+```bash
+pip install -r requirements.txt
+```
+### 3. Open Models in Python
+```bash
+python script_name.py
+```
+
+## Contributing 🤝
+
+If you'd like to contribute to this repository, feel free to fork the repository and create a pull request. Please make sure to follow the coding standards and add tests for any new features you introduce.
+
+## License 📄
+
+This project is open source and available under the MIT License.
+
+## Acknowledgements 🙏
+
+pandas – Data analysis library used for financial modeling.
+
+numpy – Numerical computation library for Python.
+
+matplotlib – Plotting and visualization library for Python.
+
+## Contact 📬
+
+For any questions or inquiries, feel free to reach out to me on GitHub or via email at [heytarunnn@gmail.com].
+
 
 
