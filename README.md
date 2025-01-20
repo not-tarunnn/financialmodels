@@ -1,35 +1,35 @@
-# Financial Models
+# Financial Models 💸📊
 
-This repository contains a collection of financial models for analyzing, forecasting, and valuing various business scenarios. The models are built to assist in financial planning, budgeting, valuation, and investment analysis. It includes tools for creating projections, performing sensitivity analysis, and conducting scenario-based evaluations.
+This repository contains a collection of financial algorithms for analyzing, forecasting, and valuing various business scenarios. The algorithms are built to assist in predicting prices and visualization with wavelet decomposition yeah i used wavelet decomposition for technical analysis and i am first to do so. It includes tools for creating projections, performing sensitivity analysis, and conducting scenario-based evaluations.
 
-I lost all my crypto assets Day trading in F&O so i am making these algorithms opensource no more gatekeeping many scripts and project were incomplete hehe :)
+I lost all my crypto assets 🥲 Day trading in F&O, so I’m making these algorithms open-source, no more gatekeeping! Many scripts and projects were incomplete, hehe 😅
 
-## Features
+## How these models work?
+These models respect Efficient Market Hypothesis so were not predicting when the change is coming rather were detecting if the change is happening now 
 
-- **Discounted Cash Flow (DCF) Models** for business valuation
-- **Budgeting and Forecasting Templates** for financial planning
-- **Financial Statement Projections** (Income Statement, Balance Sheet, Cash Flow Statement)
-- **Sensitivity and Scenario Analysis** to assess financial risks and opportunities
-- **Investment Appraisal Models** including NPV, IRR, and other evaluation metrics
 
-## Technologies Used
+Raw Data -----> wavelet decompostion ----> Ray tracing to run monte carlo simulations ----> Deep learning Model + HMM ----> DQN model ----> probablity of 1% change under next 10 seconds
 
-- **MySql** – Core financial modeling tools and templates
-- **Python** – For advanced modeling and automation
-- **tensorflow** – For Deep learning
-- **ray-tracing**- Unfortunately those codes arent available now
+## Features ✨
 
-## Folder Structure
+- **Deep Learning Models** for predicting financial trends and time series forecasting 🤖
+- **Wavelet Decomposition Models** for extracting features and analyzing non-stationary financial data 🌊
+- **Sensitivity and Scenario Analysis** to assess financial risks and opportunities 🔍
+- **Hidden Markov Models** for probablity analysis  💡
 
-- `models/` – Contains individual financial models and templates
-- `scripts/` – Python scripts for analysis and automation
-- `notebooks/` – Jupyter notebooks with financial analysis and visualizations
-- `data/` – Sample data for testing models (can be replaced with your own data)
-- `README.md` – Project overview and documentation
+## Technologies Used 🛠️
 
-## How to Use
+- **MySQL** – Core financial modeling tools and templates 💾
+- **Python** – For advanced modeling and automation 🐍
+- **TensorFlow** – For Deep learning 🤖
+- **Ray-tracing** – Unfortunately, those codes aren’t available now 🚧
+
+## How to Use 🚀
 
 ### 1. Clone the Repository
 To clone the repository, run the following command:
 ```bash
-git clone https://github.com/not-tarunnn/financialmodels.git
+git clone https://github.com/not-tarunnn/financialmodels.git 
+               
+
+
