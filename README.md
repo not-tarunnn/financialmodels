@@ -2,8 +2,6 @@
 
 This repository contains a collection of financial algorithms for analyzing, forecasting, and valuing various business scenarios. The algorithms are built to assist in predicting prices and visualization with wavelet decomposition yeah i used wavelet decomposition for technical analysis and i am first to do so. It includes tools for creating projections, performing sensitivity analysis, and conducting scenario-based evaluations.
 
-I lost all my crypto assets 🥲 Day trading in F&O, so I’m making these algorithms open-source, no more gatekeeping! Many scripts and projects were incomplete, hehe 😅
-
 ## How these models work?
 These models respect Efficient Market Hypothesis so were not predicting when the change is coming rather were detecting if the change is happening now 
 
